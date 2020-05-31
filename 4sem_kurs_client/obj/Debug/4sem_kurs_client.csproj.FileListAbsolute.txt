@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\bin\Debug\4sem_kurs_client.exe.config
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\bin\Debug\4sem_kurs_client.exe
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\bin\Debug\4sem_kurs_client.pdb
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\obj\Debug\4sem_kurs_client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\obj\Debug\4sem_kurs_client.exe
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\obj\Debug\4sem_kurs_client.pdb
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\bin\Debug\4sem_kurs.exe
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\bin\Debug\4sem_kurs.pdb
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\bin\Debug\4sem_kurs.exe.config
+C:\Users\User\source\repos\4sem_kurs_client\4sem_kurs_client\obj\Debug\4sem_kurs_client.csproj.CopyComplete
