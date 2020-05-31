@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<requests>
+  <request>
+    <electricalStation>HeatElectricalStation</electricalStation>
+    <place>Платонова</place>
+    <block>№25</block>
+  </request>
+  <request>
+    <electricalStation>NuclearElectricalStation</electricalStation>
+    <place>Свердлова</place>
+    <block>№25</block>
+  </request>
+</requests>

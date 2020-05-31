@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<powerblocks>
+  <powerblock>
+    <name>№5</name>
+    <heat>5000</heat>
+    <inAir>3400</inAir>
+    <inWater>4000</inWater>
+    <limitPower>50</limitPower>
+    <minSquare>1500</minSquare>
+    <price>1</price>
+  </powerblock>
+  <powerblock>
+    <name>№25</name>
+    <heat>400</heat>
+    <inAir>134</inAir>
+    <inWater>0</inWater>
+    <limitPower>600</limitPower>
+    <minSquare>1000</minSquare>
+    <price>1,4</price>
+  </powerblock>
+</powerblocks>

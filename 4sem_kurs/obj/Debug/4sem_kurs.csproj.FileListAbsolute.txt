@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\4sem_kurs\4sem_kurs\bin\Debug\4sem_kurs.exe.config
+C:\Users\User\source\repos\4sem_kurs\4sem_kurs\bin\Debug\4sem_kurs.exe
+C:\Users\User\source\repos\4sem_kurs\4sem_kurs\bin\Debug\4sem_kurs.pdb
+C:\Users\User\source\repos\4sem_kurs\4sem_kurs\obj\Debug\4sem_kurs.csprojAssemblyReference.cache
+C:\Users\User\source\repos\4sem_kurs\4sem_kurs\obj\Debug\4sem_kurs.exe
+C:\Users\User\source\repos\4sem_kurs\4sem_kurs\obj\Debug\4sem_kurs.pdb
